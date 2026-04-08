@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/mexhico",
+      "destination": "https://www.ristofy.io/menu/en/mexhico",
+      "permanent": true
+    },
+    {
+      "source": "/londres45",
+      "destination": "https://ristofy.io/menu/es/londres45",
+      "permanent": true
+    }
+  ]
+}
